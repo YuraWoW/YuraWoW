@@ -1,0 +1,47 @@
+h2 {
+    color: #fff;
+}
+h1 {
+    color: #fff;
+}
+
+html,body{
+    background: url("pigs.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+}
+
+a {
+    color: #fff;
+    font-size: 22px;
+    vertical-align: middle;
+    line-height: 20px;
+}
+
+#github{
+    color: #F9A620;
+}
+#instagram{
+    color:#F9A620;
+}
+#ko-fi{
+    color: #F9A620;
+}
+h3{
+    color: #fff;
+}
+
+#links{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 25px;
+    width: 150px;
+    margin: 0 auto;
+}
+
+
+    
+    
+
